@@ -22,9 +22,9 @@ Update, activate and config the plugin in the ILIAS Plugin Administration
 
 ### Adjustment suggestions
 * Adjustment suggestions by pull requests
-* Adjustment suggestions which are not yet worked out in detail by Jira tasks under https://jira.studer-raimann.ch/projects/SrDsgvo
-* Bug reports under https://jira.studer-raimann.ch/projects/SrDsgvo
-* For external users you can report it at https://plugins.studer-raimann.ch/goto.php?target=uihk_srsu_SrDsgvo
+* Adjustment suggestions which are not yet worked out in detail by Jira tasks under https://jira.studer-raimann.ch/projects/SRDSGVO
+* Bug reports under https://jira.studer-raimann.ch/projects/SRDSGVO
+* For external users you can report it at https://plugins.studer-raimann.ch/goto.php?target=uihk_srsu_SRDSGVO
 
 ### ILIAS Plugin SLA
 Wir lieben und leben die Philosophie von Open Source Software! Die meisten unserer Entwicklungen, welche wir im Kundenauftrag oder in Eigenleistung entwickeln, stellen wir öffentlich allen Interessierten kostenlos unter https://github.com/studer-raimann zur Verfügung.
